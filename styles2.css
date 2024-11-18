@@ -1,0 +1,16 @@
+body {
+    background-color: skyblue;
+}
+
+.p1 {
+    position: relative;
+    left: -25vw;
+    top: 50px;
+}
+
+
+.p2 {
+    position: relative;
+    right: -25vw;
+    top: 50px;
+}

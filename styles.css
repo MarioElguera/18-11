@@ -1,0 +1,9 @@
+body {
+    background-color: skyblue;
+}
+
+p {
+    width: 50vw;
+    margin: 100px auto;
+    text-align: justify;
+}

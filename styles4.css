@@ -1,0 +1,59 @@
+body {
+    background-color: skyblue;
+}
+
+.p1 {
+    position: relative;
+    left: -25vw;
+    top: 50px;
+}
+
+
+.p2 {
+    position: relative;
+    right: -25vw;
+    top: 50px;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+}
+
+.div1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: orange;
+}
+
+.div2 {
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: orange;
+
+}
+
+.div3 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: orange;
+
+}
+
+.div4 {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: orange;
+
+}
+
+.div5 {
+    position: fixed;
+    left: calc(50vw - 50px);
+    top: calc(50vh - 50px);
+    background-color: orange;
+}
